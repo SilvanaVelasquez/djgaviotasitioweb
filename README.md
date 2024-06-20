@@ -50,6 +50,7 @@ Navega por el sitio web utilizando los enlaces del menú de navegación. Explora
 
 Estructura del Proyecto
 Copiar código
+
 dj-gaviota-sitio-web/
 ├── assets/
 │   ├── images/
