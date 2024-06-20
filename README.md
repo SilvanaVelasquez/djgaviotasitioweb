@@ -41,9 +41,12 @@ Para ejecutar este proyecto localmente, sigue estos pasos:
 
 1. Clona el repositorio:
    ```sh
-   git clone https://github.com/tu-usuario/dj-gaviota-sitio-web.git
+   git clone https://github.com/SilvanaVelasquez/djgaviotasitioweb.git
 
    Abre el archivo index.html en tu navegador web favorito.
+2. Navega al directorio del proyecto:
+
+cd dj-gaviota-sitio-web
 
 ## Uso
 Navega por el sitio web utilizando los enlaces del menú de navegación. Explora las diferentes secciones para aprender más sobre Dj Gaviota, ver sus colaboraciones y presentaciones, y escuchar su música.
